@@ -1,0 +1,98 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=1800&t=st=1687980189~exp=1687980789~hmac=f1a49c34c0dcedb4924962e419b19691676f5b5f17ba3678a6f9109d74797bdd');
+    width: 1000px;
+    margin: 20px auto;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.divider {
+    border-bottom: 2px solid darkslategrey;
+    margin: 10px auto;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-content: end;
+    align-self: end;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+    margin: ;
+}
+
+.contents {
+    display: ;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: darkslategrey;
+    width: ;
+    font-size: large;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.contents:hover {
+    background-color: rgb(133, 174, 192);
+}
+
+legend {
+    border: 1px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white;
+}
+
+.field { 
+   width: 412px;
+   margin-top: 72px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: white;
+}
+
+.webLang {
+    margin-bottom: 10px;
+}
+
+.formLayout {
+
+    text-align: center;
+}
+
+.button {
+    border-color: black;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.choose {
+    font-size: small;
+}
+
+footer {
+    display: flex;
+    justify-content: ;
+    padding: 5px;
+    background-color: darkslategrey;
+    color: #FFF;
+}
+
+a:link {
+    color: white;
+}
+
+.imgItems {
+    width: 450px;
+    margin: auto;
+}

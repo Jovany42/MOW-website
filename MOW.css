@@ -1,0 +1,70 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/abstract-background-with-low-poly-design_1048-8478.jpg?w=1380&t=st=1688055456~exp=1688056056~hmac=4e38295690e9544b9b23c3a381fae81e164fa091706cc945053dc828f34edfb1');
+    width: 1000px;
+    margin: 20px auto;
+    font-family: sans-serif;
+    color: ;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.divider {
+    border-bottom: 2px solid whitesmoke;
+    margin: 10px auto;
+    padding-top: 20px;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-content: end;
+    align-self: end;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+    margin: ;
+}
+
+.contents {
+    display: ;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color: white;
+    width: ;
+    font-size: large;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.contents:hover {
+    background-color: rgb(8, 67, 92);
+}
+
+.aboutP {
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 500;
+    font-size: large;
+    color: white;
+}
+
+
+footer {
+    display: flex;
+    justify-content: ;
+    padding: 5px;
+    background-color: darkslategrey;
+    color: #FFF;
+}
+
+a:link {
+    color: white;
+}
